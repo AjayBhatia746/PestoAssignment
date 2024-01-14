@@ -27,11 +27,9 @@ can run different pods.
 
 
 
-                                                           |  auth-service    |
-                                                           |                  | 
-   Client       ->    Ingress/nginix(load Balancer)  ->    | product-service  |
-                                                           |                  |
-                                                           |  order-service   |
+                                                           auth-service     
+   Client       ->    Ingress/nginix(load Balancer)  ->    product-service
+                                                           order-service
 
 
 
