@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: product
-          image: bhatia746/products:0.0.1
+          image: bhatia746/product-serv:0.0.3 
           imagePullPolicy: Never
 ---
 apiVersion: v1

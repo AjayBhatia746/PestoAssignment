@@ -43,7 +43,7 @@ const updateProduct = (productId, name, price,currency ,clientVersion,sellerId) 
     }
   }
 
-  return null;
+  return [400,{"message":"product doesn't updated"}];
 };
 
 const deleteProduct = (productId) => {

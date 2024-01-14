@@ -32,5 +32,6 @@ can run different pods.
                                                            order-service
 
 
+Loom link:- https://www.loom.com/share/8dfb45156e0d493bae35a95c3ca14f92
 
-CURL collection :- https://api.postman.com/collections/32305726-52cab050-5550-49d8-a4a9-f0c82f1054a2?access_key=PMAT-01HM47Q454JCQ4VH67KX5NCW8E 
+CURL collection :- https://api.postman.com/collections/32305726-52cab050-5550-49d8-a4a9-f0c82f1054a2?access_key=PMAT-01HM47Q454JCQ4VH67KX5NCW8E
