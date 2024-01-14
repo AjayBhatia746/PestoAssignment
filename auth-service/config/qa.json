@@ -1,0 +1,20 @@
+{
+    "userService":{
+        "hostname":"user-service",
+        "port":8080,
+        "protocol":"http:",
+        "endpoint":"/user"
+    },
+    "orderService":{
+        "hostname":"user-service",
+        "port":8080,
+        "protocol":"http:",
+        "endpoint":"/user"
+    },
+    "productService":{
+        "hostname":"user-service",
+        "port":8080,
+        "protocol":"http:",
+        "endpoint":"/user"
+    }
+}
